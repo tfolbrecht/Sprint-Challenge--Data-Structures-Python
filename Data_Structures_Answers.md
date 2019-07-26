@@ -1,10 +1,10 @@
 Add your answers to the questions below.
 
 1. What is the runtime complexity of your ring buffer's `append` method?
-O(n)
+O(1)
 
 2. What is the space complexity of your ring buffer's `append` function?
-O(n)
+O(1)
 
 3. What is the runtime complexity of your ring buffer's `get` method?
 O(n)
